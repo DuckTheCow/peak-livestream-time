@@ -1,0 +1,31 @@
+# Tier questions
+
+**CA-CRTC-MTM-CMR-2025** (CRTC Communications Market Report, Media Technology Monitor Fall 2025). The report comes from the regulator, but the underlying MTM survey is run by an industry consortium. It is telephone-based with self-identified Anglophone and Francophone respondents (n=8,370), and weighting and response rate are not stated. Only subscription proxies (18+) are recorded. Decision needed: Tier 2 (regulator-published sample) or Tier 3 (industry panel).
+
+**UK-OFCOM-AMLT-2025** (Ofcom Adults' Media Literacy Tracker 2025, basis of the Adults' Media Use and Attitudes 2026 report). The regulator publishes these as official statistics. The sample is 7,533 adults aged 16+: 2,084 from a face-to-face quota sample and 5,449 from online consumer-panel quotas, weighted to Census 2021. It is not a probability sample. It is the only UK source with a live-stream item ("Watch or post livestream videos") by 7 age bands. Decision needed: Tier 2 (regulator) or Tier 3 (quota/opt-in).
+
+**UK-OFCOM-ONLINENATION-2025** (Ofcom Online Nation 2025). This is a regulator report built on opt-in online panels (Online Experiences Tracker, YouGov-based Online Research Panel) and Ipsos iris passive measurement. No figures are recorded, because it has no adult live-stream share. Decision needed: the tier for any later use.
+
+**UK-CTUR-UKTUS-2023** (CTUR UK Time Use Survey, March 2023, UKDS SN 9336). This is an academic diary survey (UCL CTUR, ESRC funded) fielded on the NatCen Opinion Panel, which is recruited by random probability: 2,174 panellists, 35% day-level response. It is not produced by a statistics office. Decision needed: Tier 1 (probability diary, HETUS-compatible) or lower.
+
+**UK-CTUR-UKTUS-2014** (UK Time Use Survey 2014-15, UKDS SN 8128). This is a multi-stage stratified probability address sample fielded by NatCen for Oxford CTUR and was the UK contribution to HETUS. It uses a 10-minute diary with secondary activity, ages 8+, and is open by registration. It was commissioned by academics, not ONS, and is 11 years old. Decision needed: Tier 1 status, and whether its age is acceptable.
+
+**UK-RAJAR-DATARELEASE-2026Q2** (RAJAR radio listening by location). The industry body (contractor Ipsos UK) combines face-to-face-recruited 7-day diaries, an app panel and a diary boost panel covering more than 22,000 adults 15+ per quarter. Probability status is not stated, and "at work" is merged with "elsewhere". It covers radio only. Decision needed: whether it counts as Tier 2 for I6.
+
+**IE-ESRI-TUS-2005** (Time Use in Ireland 2005, ESRI). It uses a random two-stage clustered sample from the Electoral Register: 1,089 adults, 58% household response, 15-minute light diary. It was run by a research institute, not the CSO, and is Ireland's only national time-use survey (21 years old, daily means only). Decision needed: Tier 1 or not.
+
+**NZ-NZONAIR-WATA-2026** (NZ On Air, Where Are The Audiences? 2026, Verian). This is a commissioned survey: n=1,701 aged 15+ (1,251 online, 450 phone), boosted and weighted to the 2023 Census, and the sampling frame is not stated. It is the only recent NZ source on online video use, including daily reach by time-of-day window. The subagent suggests Tier 3 unless the frame is shown to be a probability sample.
+
+**MX-INEGI-ENUT-2024** (INEGI Encuesta Nacional sobre Uso del Tiempo 2024). The producer is official and the sample is probability-based, but the instrument is a stylised weekly questionnaire (hours per activity last week, weekday and weekend separately), not a diary. It has no time slots, no time-of-day and no simultaneous activities. It was set to pending at merge because Tier 1 is defined as diary surveys. Decision needed: Tier 1 or Tier 2.
+
+**MX-IFT-ENCCA-2024** (IFT Encuesta Nacional de Consumo de Contenidos Audiovisuales 2024). This is a regulator survey with 8,750 respondents (6,125 urban, 2,625 rural). The full report site could not be reached, so the frame, probability selection, age floor and weighting are unverified. IFT has been replaced by the Comisión Reguladora de Telecomunicaciones. Decision needed: Tier 2 if the design is confirmed as a probability household sample, otherwise Tier 3.
+
+**EU-EC-EB540-2024** (Special Eurobarometer 540, Europeans and their languages). This is a commissioned European Commission survey (Verian): face-to-face, multi-stage random sampling, about 1,000 nationals 15+ per EU member state, fieldwork 25 Sep to 19 Oct 2023. It excludes the UK, Norway, Switzerland and Iceland. It is the only EU-wide source with English-specific conversation ability by country, and it has language-of-viewing proxies (subtitles, use of a foreign language for films/TV and online). Age breakdowns exist at EU27 level only. Decision needed: whether it can count as Tier 2 for I2 and I4.
+
+**SE-SCB-TID-2021** (Statistics Sweden, En fråga om tid 2021). The producer is official, but it is an activity questionnaire, not a diary: leisure is not collected, activities do not sum to 24 hours, and it was fielded during the pandemic. It was set to pending at merge because Tier 1 is defined as diary surveys. Decision needed: the tier. It cannot supply I5 either way.
+
+**PH-PIDS-DP2021-13** (PIDS discussion paper re-tabulating the DICT National ICT Household Survey 2019). The underlying survey is an official probability survey (43,838 households). The figure is a government research institute re-tabulation in a paper marked "not for quotation", from the superseded 2019 edition. The 2024 primary tables were blocked in this session. Decision needed: keep as an interim Tier 2 proxy, or drop.
+
+**IN-BARC-TVPANEL-2019** (BARC India TV audience panel). This is a joint industry body's metered panel of about 135,000 individuals, sold as a subscription product. It measures linear TV, not streaming, and no figures are recorded. Decision needed: Tier 2 or Tier 3.
+
+**IN-IAMAI-KANTAR-ICUBE-2023** (IAMAI-Kantar Internet in India). This is commissioned research by an industry association, said to cover over 90,000 households, and it may be the only Indian source with online video and content-language items. The primary report could not be reached and no figures are recorded. Decision needed: the tier, and whether to retrieve the primary report in a later stage.
